@@ -36,6 +36,7 @@ scheduler.date.workweek_start = function(date) {
 }scheduler.date.get_workweek_end=function(start_date){ 
     return scheduler.date.add(start_date,5,"day"); 
 }
+	
 scheduler.date.add_workweek=function(date,inc){ 
     return scheduler.date.add(date,inc*7,"day");
 }scheduler.templates.workweek_date = scheduler.templates.week_date;
