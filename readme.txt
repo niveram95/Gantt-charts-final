@@ -8,17 +8,5 @@ This software is covered by GPL license. You also can obtain Commercial or Enter
 */
 
 
-Useful links
--------------
-
-- Online  documentation
-	http://docs.dhtmlx.com/gantt/
-
-- Downloadable documentation
-	CHM version
-		http://dhtmlx.com/x/download/regular/dhtmlxgantt_chm.zip
-	HTML version
-		http://dhtmlx.com/x/download/regular/dhtmlxgantt_docs_html.zip
-	
-- Support forum
-	http://forum.dhtmlx.com/viewforum.php?f=15
+Use myGantt.html for DHTMLX Gantt
+Use nivedit(1).html for dd Gantt
